@@ -45,22 +45,22 @@ Xinsta_brute is a tool written on Bash. using this tool we can able perform Brut
  ### <p align="center">Commands to run tool in ur Termux
 ***
         
- ```bash
+```bash
 pkg update && pkg upgrade -y
 ```
 ```bash
 pkg install git -y
 ```
 ```bash
-
 git clone https://github.com/andryan87/xinstagram_brute-Master.git
-
+```
 ```bash
 cd xinsta_brute
 ```
 ```bash
 bash setup
 ```
+```bash
 Type Above Command bash setup Wait For Some minute 
 
 Warn:- don't exit old terminal/session
