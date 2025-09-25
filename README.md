@@ -52,8 +52,9 @@ pkg update && pkg upgrade -y
 pkg install git -y
 ```
 ```bash
-git clone https://github.com/hackerxphantom/xinsta_brute
-```
+
+git clone https://github.com/andryan87/xinstagram_brute-Master.git
+
 ```bash
 cd xinsta_brute
 ```
