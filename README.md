@@ -60,12 +60,13 @@ cd xinsta_brute
 ```bash
 bash setup
 ```
-```bash
+
 Type Above Command bash setup Wait For Some minute 
 
 Warn:- don't exit old terminal/session
  
 Now Open New Terminal/Session And Type Below command:-
+
 ```bash
 bash xinsta_brute.sh
 ```
