@@ -14,7 +14,7 @@ Note : Tool is Made of Educational Purposes only.
        it's For Fun Purpose Not For Revenge
        
 ```bash
-       (Join Us All https://bit.ly/3PV3S3r)
+       (Join Us All)
 ```
   
 ## About xinsta_brute
