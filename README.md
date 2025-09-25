@@ -1,6 +1,6 @@
 # xinsta_brute
 
-![PicsArt_22-06-04_17-39-30-469](https://user-images.githubusercontent.com/70594016/172036780-7dcdf629-abdd-4b4e-8919-a085d7745c01.png)
+![PicsArt_22-06-04_17-39-30-469 (https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/0d04/live/7b2c09f0-3844-11ef-a044-9d4367d5b599.jpg.webp )
 
 
 ###### xinsta_brute instagram bruteforce.
@@ -9,12 +9,13 @@
 ### <p align="center">Commands to run tool in ur terminal
 ***
 
-```bash
+
 Note : Tool is Made of Educational Purposes only.
        Please try not to harm anyone device 
        it's For Fun Purpose Not For Revenge
-       (Join Us All https://bit.ly/3PV3S3r)
        
+```bash
+       (Join Us All https://bit.ly/3PV3S3r)
 ```
   
 ## About xinsta_brute
